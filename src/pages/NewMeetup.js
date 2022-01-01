@@ -1,6 +1,5 @@
-function NewMeetup(){
-    <div>NewMeetup page</div>
+function NewMeetup() {
+  return <div>NewMeetup page</div>;
 }
-
 
 export default NewMeetup;
